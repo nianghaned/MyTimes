@@ -34,13 +34,15 @@ a {
 }
 
 .large {
-  margin-top: 350px;
+  /*margin-top: 350px;*/
   display: flex;
   width: 630px;
   flex-direction: column;
   position: absolute;
 }
 
-div {
+h4,
+p,
+h6 {
   border: 2px solid black;
 }
