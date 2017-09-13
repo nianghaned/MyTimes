@@ -41,6 +41,14 @@ a {
   position: absolute;
 }
 
+.middle {
+  width: 300px;
+}
+
+.small {
+  width: 240px;
+}
+
 h4,
 p,
 h6 {
